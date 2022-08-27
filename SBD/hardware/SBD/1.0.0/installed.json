@@ -3,28 +3,28 @@
     {
       "name": "SBD",
       "maintainer": "Smart Bee Designs",
-      "websiteUrl": "https://github.com/espressif/arduino-esp32",
+      "websiteUrl": "https://github.com/strid3r21/smartbeedesigns",
       "email": "smartbeedesigns@gmail.com",
       "platforms": [
         {
           "name": "Smart Bee Designs",
-          "architecture": "esp32",
+          "architecture": "SBD",
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
           "url": "https://github.com/strid3r21/smartbeedesigns/archive/refs/tags/1.0.0.zip",
           "archiveFileName": "smartbeedesigns-1.0.0",
           "checksum": "SHA-256:8b07c0657006f12fd51da653b9e968cb3a019780add0c7d84131200b639de774",
-          "size": 251293595,
+          "size": 259715595,
           "boards": [
             {
               "name": "Bee Motion"
             },
             {
-              "name": "Bee Motion Mini"
+              "name": "Bee Motion S3"
             },
             {
-              "name": "Bee Motion S3"
+              "name": "Bee Motion Mini"
             },
             {
               "name": "Bee S3"
