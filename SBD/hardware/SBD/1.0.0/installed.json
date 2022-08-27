@@ -4,8 +4,7 @@
       "name": "SBD",
       "maintainer": "Smart Bee Designs",
       "websiteUrl": "https://github.com/espressif/arduino-esp32",
-      "Url": "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json",
-      "email": "hristo@espressif.com",
+      "email": "smartbeedesigns@gmail.com",
       "platforms": [
         {
           "name": "esp32",
@@ -13,10 +12,10 @@
           "version": "2.0.4",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.4/esp32-2.0.4.zip",
-          "archiveFileName": "esp32-2.0.4.zip",
-          "checksum": "SHA-256:832609d6f4cd0edf4e471f02e30b7f0e1c86fdd1b950990ef40431e656237214",
-          "size": 259715595,
+          "url": "https://github.com/strid3r21/smartbeedesigns/archive/refs/tags/1.0.0.zip",
+          "archiveFileName": "smartbeedesigns-1.0.0",
+          "checksum": "SHA-256:8b07c0657006f12fd51da653b9e968cb3a019780add0c7d84131200b639de774",
+          "size": 251293595,
           "boards": [
             {
               "name": "ESP32 Dev Board"
