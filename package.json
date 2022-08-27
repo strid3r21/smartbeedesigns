@@ -7,7 +7,7 @@
       "email": "smartbeedesigns@gmail.com",
       "platforms": [
         {
-          "name": "SBD",
+          "name": "smartbeedesigns",
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
