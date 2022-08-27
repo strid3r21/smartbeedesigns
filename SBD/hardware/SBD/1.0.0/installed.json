@@ -7,9 +7,9 @@
       "email": "smartbeedesigns@gmail.com",
       "platforms": [
         {
-          "name": "esp32",
+          "name": "Smart Bee Designs",
           "architecture": "esp32",
-          "version": "2.0.4",
+          "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
           "url": "https://github.com/strid3r21/smartbeedesigns/archive/refs/tags/1.0.0.zip",
@@ -18,16 +18,16 @@
           "size": 251293595,
           "boards": [
             {
-              "name": "ESP32 Dev Board"
+              "name": "Bee Motion"
             },
             {
-              "name": "ESP32-S2 Dev Board"
+              "name": "Bee Motion Mini"
             },
             {
-              "name": "ESP32-S3 Dev Board"
+              "name": "Bee Motion S3"
             },
             {
-              "name": "ESP32-C3 Dev Board"
+              "name": "Bee S3"
             }
           ],
           "help": {},
