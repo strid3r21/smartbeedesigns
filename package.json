@@ -11,7 +11,7 @@
           "architecture": "esp32",
           "version": "V1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/strid3r21/smartbeedesigns/releases/downloads/1.0.0/smartbeedesigns-1.0.0.zip",
+          "url": "https://github.com/strid3r21/smartbeedesigns/archive/refs/tags/1.0.1.zip",
           "archiveFileName": "smartbeedesigns-1.0.0",
           "checksum": "SHA-256:8b07c0657006f12fd51da653b9e968cb3a019780add0c7d84131200b639de774",
           "size": "251293000",
